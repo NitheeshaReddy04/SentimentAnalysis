@@ -1,0 +1,9 @@
+review,sentiment
+"This product is amazing!",positive
+"I hate this item",negative
+"Very good quality",positive
+"Terrible experience",negative
+"I love it",positive
+"Bad experience",negative
+"This phone is excellent",positive
+"Worst thing ever",negative
